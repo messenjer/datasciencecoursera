@@ -16,3 +16,6 @@ sudo add-apt-repository 'deb http://cran.freestatistics.org/bin/linux/ubuntu tru
 * http://www.rstudio.com/products/rstudio/download/ 
 * + wget package
 
+## Ressource
+
+* http://cran.univ-lyon1.fr/doc/contrib/Goulet_introduction_programmation_R.pdf 
