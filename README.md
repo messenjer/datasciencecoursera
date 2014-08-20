@@ -19,3 +19,4 @@ sudo add-apt-repository 'deb http://cran.freestatistics.org/bin/linux/ubuntu tru
 ## Ressource
 
 * http://cran.univ-lyon1.fr/doc/contrib/Goulet_introduction_programmation_R.pdf 
+* http://tryr.codeschool.com/ 
