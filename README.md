@@ -10,3 +10,9 @@ sudo add-apt-repository 'deb http://cran.freestatistics.org/bin/linux/ubuntu tru
 ```
 
 * More info http://cran.r-project.org/ 
+
+## Install RStudio
+
+* http://www.rstudio.com/products/rstudio/download/ 
+* + wget package
+
